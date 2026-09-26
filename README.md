@@ -4,6 +4,8 @@ Last Update: 2026-09-12
 
 ## Securing Safe and Sanitary Water and Improving Livelihoods through Agroforestry, Reducing Child Labor, and Promoting CO₂ Sequestration
 
+**Keywords:** SDGs, safe water, water purification, renewable energy, agroforestry, child labor, education, poverty reduction, CO₂ sequestration, climate change
+
 As the 2030 deadline for achieving the SDGs approaches, many challenges still remain.
 
 Water, nutrition, poverty, child labor, and loss of educational opportunities are not independent issues; they are interconnected.

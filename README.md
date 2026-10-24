@@ -1,6 +1,9 @@
 Last Update: 2026-09-12
 
 # 01 An Integrated Approach to Addressing Multiple SDG Challenges
+## Materials
+- [One-Page Summary (PDF)](https://github.com/kenichi-miyauchi/01_EN/blob/main/A4_1P_01_An_Integrated_Approach_to_Addressing_Multiple_SDG_Challenges_EN_Rev1.3.pdf)
+- [Full Proposal (PDF)](https://github.com/kenichi-miyauchi/01_EN/blob/main/01_An_Integrated_Approach_to_Addressing_Multiple_SDG_Challenges_EN_Rev1.3.pdf)
 
 ## Securing Safe and Sanitary Water and Improving Livelihoods through Agroforestry, Reducing Child Labor, and Promoting CO₂ Sequestration
 

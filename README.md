@@ -1,7 +1,7 @@
 Last Update: 2026-09-12
 
 # 01 An Integrated Approach to Addressing Multiple SDG Challenges
-## Materials
+## Documents
 - [A4 Summary (PDF)](https://github.com/kenichi-miyauchi/01_EN/blob/main/01_An_Integrated_Approach_to_Addressing_Multiple_SDG_Challenges_EN_Rev1.3_A4_Summary.pdf)
 - [Full Proposal (PDF)](https://github.com/kenichi-miyauchi/01_EN/blob/main/01_An_Integrated_Approach_to_Addressing_Multiple_SDG_Challenges_EN_Rev1.3.pdf)
 
